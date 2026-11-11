@@ -1,21 +1,21 @@
 {
   "sweden": {
     "certified": true,
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-09",
     "places": 108,
     "checks": [
       {
         "tables": "Sweden — Islamiska Förbundet’s tables",
         "places": 107,
-        "times": 61344,
+        "times": 63114,
         "off": 0,
         "offWithoutCorrections": 20,
         "from": "2026-10-11",
-        "to": "2027-12-07",
+        "to": "2027-12-14",
         "setAside": {
           "misplaced": [],
-          "sourceFaults": 35037,
-          "copiedRows": 682
+          "sourceFaults": 35491,
+          "copiedRows": 696
         }
       },
       {
@@ -38,15 +38,15 @@
   },
   "diyanet": {
     "certified": true,
-    "checkedAt": "2026-11-04",
-    "places": 8132,
+    "checkedAt": "2026-11-11",
+    "places": 8318,
     "checks": [
       {
         "tables": "Diyanet — its tables worldwide",
-        "places": 8132,
-        "times": 69999603,
+        "places": 8318,
+        "times": 71630078,
         "off": 0,
-        "offWithoutCorrections": 9129,
+        "offWithoutCorrections": 9368,
         "from": "2024-01-01",
         "to": "2027-12-31"
       }
@@ -54,14 +54,14 @@
     "corrections": {
       "from": "2024-01-01",
       "to": "2027-12-31",
-      "entries": 9118,
-      "sha256": "47997767e178ce48babd80f0e4a53460c5d379eb098bff1e7ebbba1e6afdf605"
+      "entries": 9357,
+      "sha256": "a8c6a7305611f8dcedc04a64efb8dd150d9a588c2b3ac3391bfb776d70a2ec83"
     },
     "revision": 1
   },
   "morocco": {
     "certified": true,
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-11",
     "places": 164,
     "checks": [
       {
@@ -84,7 +84,7 @@
   },
   "algeria": {
     "certified": true,
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-09",
     "places": 68,
     "checks": [
       {
@@ -107,7 +107,7 @@
   },
   "indonesia": {
     "certified": true,
-    "checkedAt": "2026-11-04",
+    "checkedAt": "2026-11-11",
     "places": 517,
     "checks": [
       {
@@ -115,7 +115,7 @@
         "places": 517,
         "times": 362934,
         "off": 0,
-        "offWithoutCorrections": 405,
+        "offWithoutCorrections": 234,
         "from": "2026-10-07",
         "to": "2027-01-31"
       }
@@ -123,9 +123,9 @@
     "corrections": {
       "from": "2026-10-07",
       "to": "2027-01-31",
-      "entries": 405,
-      "sha256": "5d9dc4703832e0ae850aff0af79a6d2436e013f5e1e2203ace41c6e05b36978d"
+      "entries": 234,
+      "sha256": "a3f1c30576ddddbfda6cadabe442e1bcf3fb476b018b269d7d4783edd4e39d03"
     },
-    "revision": 1
+    "revision": 2
   }
 }

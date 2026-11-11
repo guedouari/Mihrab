@@ -69,7 +69,7 @@ sudo pacman -Syu mihrab</pre>
 <!-- accuracy:start -->
 <div align="center">
 
-<a href="https://github.com/MihrabHQ/mihrab-methods"><img src="branding/badges/certification.svg" alt="certified: 0 of 72,013,209 times off the printed minute"></a>
+<a href="https://github.com/MihrabHQ/mihrab-methods"><img src="branding/badges/certification.svg" alt="certified: 0 of 73,645,454 times off the printed minute"></a>
 
 Prayer times computed with **[mihrab-methods](https://github.com/MihrabHQ/mihrab-methods)**, the authorities’ own methods checked against every time they have published.
 
@@ -77,13 +77,13 @@ Prayer times computed with **[mihrab-methods](https://github.com/MihrabHQ/mihrab
 
 | Matches the published timetable of | Times checked | Off the printed minute |
 |---|---:|---:|
-| Islamiska Förbundet (Sweden), and Diyanet’s tables for Sweden | 1,455,138 | **0** |
-| Diyanet, Türkiye and worldwide | 69,999,603 | **0** |
+| Islamiska Förbundet (Sweden), and Diyanet’s tables for Sweden | 1,456,908 | **0** |
+| Diyanet, Türkiye and worldwide | 71,630,078 | **0** |
 | Morocco’s Ministry of Habous and Islamic Affairs | 94,350 | **0** |
 | Algeria’s Ministry of Religious Affairs and Wakfs | 101,184 | **0** |
 | Indonesia’s Kemenag | 362,934 | **0** |
 
-<sub>Last checked 4 November 2026. Generated from mihrab-methods’ <code>certification.json</code> by <code>scripts/build-copy.js</code>. Mihrab is independent and not affiliated with any of these authorities.</sub>
+<sub>Last checked 9 November 2026. Generated from mihrab-methods’ <code>certification.json</code> by <code>scripts/build-copy.js</code>. Mihrab is independent and not affiliated with any of these authorities.</sub>
 <!-- accuracy:end -->
 
 ---
